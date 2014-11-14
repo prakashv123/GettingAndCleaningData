@@ -1,4 +1,4 @@
-# Part 1 & Part 2
+# Part 1 & Part 2 
 # Function for reading subject_train, X_train, y_train from the folder 'train'
 # and labelling and extracting the data for mean and standard deviation. 
 
